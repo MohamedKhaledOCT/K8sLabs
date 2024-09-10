@@ -1,5 +1,3 @@
-
-
 ```markdown
 # Kubernetes Namespace and Deployment Guide
 
