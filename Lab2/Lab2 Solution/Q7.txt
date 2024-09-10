@@ -1,0 +1,1 @@
+ReplicaSets ensure that the specified number of replicas are always running. When a POD is deleted, the ReplicaSet creates a new one to maintain the desired count.

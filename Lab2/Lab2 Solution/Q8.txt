@@ -1,0 +1,1 @@
+The issue with the provided YAML is the apiVersion. It should be apps/v1 instead of v1.
