@@ -1,8 +1,8 @@
-```markdown
 # Kubernetes Namespace and Deployment Guide
 
 ## What is a Namespace in Kubernetes, and Why is it Used?
 A namespace in Kubernetes is a logical partition within a cluster that allows you to divide resources into named groups. It is used to isolate resources between different teams or projects within the same cluster, making it easier to manage different environments like development, testing, and production without conflicts.
+
 
 ## How to Create a New Namespace in Kubernetes Using the kubectl Command
 ```bash
